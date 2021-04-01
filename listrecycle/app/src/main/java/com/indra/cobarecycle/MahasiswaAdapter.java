@@ -1,4 +1,4 @@
-package com.elapp.minggu4view;
+package com.indra.cobarecycle;
 
 import android.view.LayoutInflater;
 import android.view.View;

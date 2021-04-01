@@ -1,4 +1,4 @@
-package com.elapp.minggu4view;
+package com.indra.cobarecycle;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -30,12 +30,12 @@ public class RecyclerViewActivity extends AppCompatActivity {
 
     private void addData() {
         mahasiswaArrayList = new ArrayList<>();
-        mahasiswaArrayList.add(new Mahasiswa("Bintang", "E41191570", "123456789"));
-        mahasiswaArrayList.add(new Mahasiswa("Tegar", "E41190868", "123456789"));
-        mahasiswaArrayList.add(new Mahasiswa("Rifjan", "E41190860", "123456789"));
-        mahasiswaArrayList.add(new Mahasiswa("Ipang", "E41192090", "123456789"));
-        mahasiswaArrayList.add(new Mahasiswa("Derby", "E41192010", "123456789"));
-        mahasiswaArrayList.add(new Mahasiswa("Reza", "E41193010", "123456789"));
-        mahasiswaArrayList.add(new Mahasiswa("Zami", "E41194509", "123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("indra", "E41192478", "123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("helmi", "E41192387", "123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("dika", "E41191344", "123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("faiz", "E41192110", "123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("desi", "E4119900", "123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("farel", "E41192670", "123456789"));
+        mahasiswaArrayList.add(new Mahasiswa("rizky", "E411925234", "123456789"));
     }
 }

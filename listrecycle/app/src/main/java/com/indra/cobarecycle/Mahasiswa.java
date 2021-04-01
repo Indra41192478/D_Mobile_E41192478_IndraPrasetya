@@ -1,4 +1,4 @@
-package com.elapp.minggu4view;
+package com.indra.cobarecycle;
 
 public class Mahasiswa {
 
